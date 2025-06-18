@@ -1,10 +1,10 @@
 # pg-eventdispatcher
 
-[![Latest Stable Version](https://poser.pugx.org/willy68/pg-eventdispatcher/v/stable)](https://packagist.org/packages/willy68/pg-eventdispatcher)
-[![Total Downloads](https://poser.pugx.org/willy68/pg-eventdispatcher/downloads)](https://packagist.org/packages/willy68/pg-eventdispatcher)
-[![License](https://poser.pugx.org/willy68/pg-eventdispatcher/license)](https://packagist.org/packages/willy68/pg-eventdispatcher).
-[![PHP Version Require](https://poser.pugx.org/willy68/pg-eventdispatcher/require/php)](https://packagist.org/packages/willy68/pg-eventdispatcher)
-
+[![Latest Stable Version](http://poser.pugx.org/willy68/pg-eventdispacher/v)](https://packagist.org/packages/willy68/pg-eventdispacher) 
+[![Total Downloads](http://poser.pugx.org/willy68/pg-eventdispacher/downloads)](https://packagist.org/packages/willy68/pg-eventdispacher) 
+[![Latest Unstable Version](http://poser.pugx.org/willy68/pg-eventdispacher/v/unstable)](https://packagist.org/packages/willy68/pg-eventdispacher) 
+[![License](http://poser.pugx.org/willy68/pg-eventdispacher/license)](https://packagist.org/packages/willy68/pg-eventdispacher) 
+[![PHP Version Require](http://poser.pugx.org/willy68/pg-eventdispacher/require/php)](https://packagist.org/packages/willy68/pg-eventdispacher)
 Psr14 Event Dispatcher
 ## Installation
 
