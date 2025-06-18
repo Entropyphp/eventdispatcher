@@ -5,6 +5,7 @@
 [![Latest Unstable Version](http://poser.pugx.org/willy68/pg-eventdispacher/v/unstable)](https://packagist.org/packages/willy68/pg-eventdispacher) 
 [![License](http://poser.pugx.org/willy68/pg-eventdispacher/license)](https://packagist.org/packages/willy68/pg-eventdispacher) 
 [![PHP Version Require](http://poser.pugx.org/willy68/pg-eventdispacher/require/php)](https://packagist.org/packages/willy68/pg-eventdispacher)
+[![Coverage Status](https://coveralls.io/repos/github/willy68/pg-eventdispatcher/badge.svg?branch=master)](https://coveralls.io/github/willy68/pg-eventdispatcher?branch=master)  
 Psr14 Event Dispatcher
 ## Installation
 
