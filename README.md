@@ -16,9 +16,9 @@ composer require willy68/pg-eventdispatcher
 
  The array keys are event names and the value can be:
 
- The method name to call (priority defaults to 0)
- The priority (default __invoke class method)
- The eventName (default __invoke class method) (priority defaults to 0)
+ The method name to call (priority defaults to 0)  
+ The priority (default __invoke class method)  
+ The eventName (default __invoke class method) (priority defaults to 0)  
  An array composed of the method name to call and the priority
 
  For instance:
