@@ -1,5 +1,5 @@
 {
-    "name": "willy/pg-eventdispacher",
+    "name": "willy68/pg-eventdispacher",
     "description": "Event system manager",
     "type": "library",
     "require": {
