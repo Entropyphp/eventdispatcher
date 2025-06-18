@@ -45,7 +45,7 @@ class MyListener implements EventSubscriberInterface
     public static function getSubscribedEvents(): array
     {
         return [
-            RequestEvent::class => ListenerPriority::HIGH
+            RequestEvent::NAME => ListenerPriority::HIGH
         ];
     }
 }
