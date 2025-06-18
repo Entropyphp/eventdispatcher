@@ -25,8 +25,8 @@ composer require willy68/pg-eventdispatcher
 ```php
  ['eventName' => 'methodName'] //default priority 0
  ['eventName' => ListenerPriority::HIGH] //default __invoke method
- ['eventName' => ['methodName', ListenerPriority::HIGH]] //methodName with high priority
  ['eventName'] //default __invoke method with default priority 0
+ ['eventName' => ['methodName', ListenerPriority::HIGH]] //methodName with high priority
 ```
 ## Example
 
