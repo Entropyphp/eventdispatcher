@@ -23,6 +23,9 @@
             "PgTest\\Event\\": "tests"
         }
     },
+    "scripts": {
+        "coverage": ["php -dxdebug.mode=coverage ./vendor/bin/phpunit --coverage-text --coverage-html=build/coverage"]
+    },
     "authors": [
         {
             "name": "willy",
