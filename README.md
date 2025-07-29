@@ -1,17 +1,17 @@
-# pg-eventdispatcher
+# eventdispatcher
 
-[![Latest Stable Version](http://poser.pugx.org/willy68/pg-eventdispacher/v)](https://packagist.org/packages/willy68/pg-eventdispacher) 
-[![Total Downloads](http://poser.pugx.org/willy68/pg-eventdispacher/downloads)](https://packagist.org/packages/willy68/pg-eventdispacher) 
-[![Latest Unstable Version](http://poser.pugx.org/willy68/pg-eventdispacher/v/unstable)](https://packagist.org/packages/willy68/pg-eventdispacher) 
-[![License](http://poser.pugx.org/willy68/pg-eventdispacher/license)](https://packagist.org/packages/willy68/pg-eventdispacher) 
-[![PHP Version Require](http://poser.pugx.org/willy68/pg-eventdispacher/require/php)](https://packagist.org/packages/willy68/pg-eventdispacher)
-[![Coverage Status](https://coveralls.io/repos/github/willy68/pg-eventdispatcher/badge.svg?branch=main)](https://coveralls.io/github/willy68/pg-eventdispatcher?branch=main)
+[![Latest Stable Version](http://poser.pugx.org/Entropyphp/eventdispacher/v)](https://packagist.org/packages/Entropyphp/eventdispacher) 
+[![Total Downloads](http://poser.pugx.org/Entropyphp/eventdispacher/downloads)](https://packagist.org/packages/Entropyphp/eventdispacher) 
+[![Latest Unstable Version](http://poser.pugx.org/Entropyphp/eventdispacher/v/unstable)](https://packagist.org/packages/Entropyphp/eventdispacher) 
+[![License](http://poser.pugx.org/Entropyphp/eventdispacher/license)](https://packagist.org/packages/Entropyphp/eventdispacher) 
+[![PHP Version Require](http://poser.pugx.org/Entropyphp/eventdispacher/require/php)](https://packagist.org/packages/Entropyphp/eventdispacher)
+[![Coverage Status](https://coveralls.io/repos/github/Entropyphp/eventdispatcher/badge.svg?branch=main)](https://coveralls.io/github/Entropyphp/eventdispatcher?branch=main)
   
 Psr14 Event Dispatcher
 ## Installation
 
 ```bash
-composer require willy68/pg-eventdispatcher
+composer require entropyphp/eventdispatcher
 ```
 
 ## Subscribe to this dispatcher
