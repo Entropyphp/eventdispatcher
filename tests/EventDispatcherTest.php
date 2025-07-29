@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace PgTest\Event;
+namespace Entropy\Tests\Event;
 
-use Pg\Event\EventDispatcher;
-use Pg\Event\EventSubscriberInterface;
+use Entropy\Event\EventDispatcher;
+use Entropy\Event\EventSubscriberInterface;
 use PHPUnit\Framework\MockObject\Exception;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;

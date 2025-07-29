@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace PgTest\Event;
+namespace Entropy\Tests\Event;
 
-use Pg\Event\StoppableEvent;
+use Entropy\Event\StoppableEvent;
 use PHPUnit\Framework\TestCase;
 
 class StoppableEventTest extends TestCase

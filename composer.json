@@ -1,5 +1,5 @@
 {
-    "name": "willy68/pg-eventdispacher",
+    "name": "entropyphp/eventdispacher",
     "description": "Event system manager",
     "type": "library",
     "require": {
@@ -15,12 +15,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Pg\\Event\\": "src/"
+            "Entropy\\Event\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PgTest\\Event\\": "tests"
+            "Entropy\\Tests\\Event\\": "tests"
         }
     },
     "scripts": {

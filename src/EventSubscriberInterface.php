@@ -11,7 +11,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Pg\Event;
+namespace Entropy\Event;
 
 /**
  * An EventSubscriber knows itself what events it is interested in.

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Pg\Event;
+namespace Entropy\Event;
 
 use League\Event\HasEventName;
 

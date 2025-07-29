@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace PgTest\Event;
+namespace Entropy\Tests\Event;
 
-use Pg\Event\Event;
+use Entropy\Event\Event;
 use PHPUnit\Framework\TestCase;
 
 class EventTest extends TestCase
