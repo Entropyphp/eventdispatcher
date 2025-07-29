@@ -1,10 +1,10 @@
 # eventdispatcher
 
-[![Latest Stable Version](http://poser.pugx.org/Entropyphp/eventdispacher/v)](https://packagist.org/packages/Entropyphp/eventdispacher) 
-[![Total Downloads](http://poser.pugx.org/Entropyphp/eventdispacher/downloads)](https://packagist.org/packages/Entropyphp/eventdispacher) 
-[![Latest Unstable Version](http://poser.pugx.org/Entropyphp/eventdispacher/v/unstable)](https://packagist.org/packages/Entropyphp/eventdispacher) 
-[![License](http://poser.pugx.org/Entropyphp/eventdispacher/license)](https://packagist.org/packages/Entropyphp/eventdispacher) 
-[![PHP Version Require](http://poser.pugx.org/Entropyphp/eventdispacher/require/php)](https://packagist.org/packages/Entropyphp/eventdispacher)
+[![Latest Stable Version](http://poser.pugx.org/entropyphp/eventdispacher/v)](https://packagist.org/packages/entropyphp/eventdispacher) 
+[![Total Downloads](http://poser.pugx.org/entropyphp/eventdispacher/downloads)](https://packagist.org/packages/entropyphp/eventdispacher) 
+[![Latest Unstable Version](http://poser.pugx.org/entropyphp/eventdispacher/v/unstable)](https://packagist.org/packages/entropyphp/eventdispacher) 
+[![License](http://poser.pugx.org/entropyphp/eventdispacher/license)](https://packagist.org/packages/entropyphp/eventdispacher) 
+[![PHP Version Require](http://poser.pugx.org/entropyphp/eventdispacher/require/php)](https://packagist.org/packages/entropyphp/eventdispacher)
 [![Coverage Status](https://coveralls.io/repos/github/Entropyphp/eventdispatcher/badge.svg?branch=main)](https://coveralls.io/github/Entropyphp/eventdispatcher?branch=main)
   
 Psr14 Event Dispatcher
