@@ -33,9 +33,9 @@ composer require entropyphp/eventdispatcher
 ## Example
 
 ```php
-use Pg\Event\EventSubscriberInterface;
+use Entropy\Event\EventSubscriberInterface;
 use League\Event\ListenerPriority;
-use Pg\Event\EventDispatcher;
+use Entropy\Event\EventDispatcher;
 
 class MyListener implements EventSubscriberInterface
 {
@@ -53,5 +53,5 @@ class MyListener implements EventSubscriberInterface
 }
 
 $dispatcher = new EventDispatcher($callableResolver);
-$dispatcher->subscribeListener(MyListener::class);
+$dispatcher->addSubscribe(MyListener::class);
 ```
