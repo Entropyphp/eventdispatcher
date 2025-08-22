@@ -21,7 +21,7 @@ class EventDispatcher extends LeagueEventDispatcher
 
     public function __construct(
         CallableResolver $callableResolver,
-        ListenerProviderInterface $listenerProvider = null
+        ?ListenerProviderInterface $listenerProvider = null
     ) {
         parent::__construct($listenerProvider);
         $this->callableResolver = $callableResolver;
